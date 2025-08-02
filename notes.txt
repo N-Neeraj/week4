@@ -2,3 +2,4 @@ Line from my machine
 Line from remote machine
 Another local line
 Line 1 - First change
+Line 2 - Second change
